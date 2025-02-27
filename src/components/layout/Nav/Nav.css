@@ -1,0 +1,12 @@
+.nav-link {
+  font-weight: 700;
+  color: blueviolet;
+}
+
+/* .inactive {
+      color: red;
+    } */
+
+.active {
+  color: green;
+}
